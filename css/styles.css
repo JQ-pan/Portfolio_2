@@ -10995,3 +10995,11 @@ section.resume-section .resume-section-content {
   }
 }
 
+.card {
+  width: 16em;
+  margin: 0.6em;
+}
+
+.card-img-top {
+  height: 12em;
+}
